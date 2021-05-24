@@ -1,5 +1,7 @@
 # Contributing
 
+Bitte sende eine Email an: lieblings_kollege@awesome.com
+
 Your contributions are always welcome!
 
 ## Guideline
